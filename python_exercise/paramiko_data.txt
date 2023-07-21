@@ -1,0 +1,45 @@
+Linux nso5-rnetsim4.robotlab.com 3.10.0-1062.4.3.el7.x86_64 #1 SMP Wed Nov 13 23:58:53 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+
+***************************************************
+total 63200
+drwxr-xr-x 5 zsnso02 ncsadmin      142 Feb  9  2021 neds
+drwxrwxrwx 2 zsnso02 ncsadmin       34 Jun 20  2021 CSGC
+-rw-r--r-- 1 zsnso02 ncsadmin 64698718 Sep  7  2021 cisco-ios-cli-6.68.tar.gz
+drwxr-xr-x 5 zsnso02 ncsadmin      154 Nov 22  2021 netsim-creation
+drwxr-xr-x 5 zsnso02 ncsadmin       71 Feb 16  2022 acl11_netsim
+drwxr-xr-x 3 zsnso02 ncsadmin       24 Jan 10  2023 irs
+drwxr-xr-x 4 zsnso02 ncsadmin       45 Apr 13 13:10 13042023
+drwxr-xr-x 9 zsnso02 ncsadmin      134 Apr 19 11:15 team-netsims
+-rwxrwxrwx 1 zsnso02 ncsadmin     4751 Jun 23 06:13 tt_netsim_devices.xml
+drwxr-xr-x 5 zsnso02 ncsadmin     4096 Jul 17 03:15 netsimautom
+
+***************************************************
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                16
+On-line CPU(s) list:   0-15
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             16
+NUMA node(s):          2
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 85
+Model name:            Intel(R) Xeon(R) Gold 6132 CPU @ 2.60GHz
+Stepping:              4
+CPU MHz:               2593.905
+BogoMIPS:              5187.81
+Hypervisor vendor:     VMware
+Virtualization type:   full
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              1024K
+L3 cache:              19712K
+NUMA node0 CPU(s):     0-7
+NUMA node1 CPU(s):     8-15
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss syscall nx rdtscp lm constant_tsc arch_perfmon nopl tsc_reliable nonstop_tsc eagerfpu pni pclmulqdq ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx hypervisor lahf_lm 3dnowprefetch arat
+
+***************************************************
+
+***************************************************
